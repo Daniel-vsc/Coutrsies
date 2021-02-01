@@ -1,9 +1,10 @@
 
 nav {
-    background-color: blue;
+    background-color: orange;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    color: white;
 }
 
 
@@ -19,6 +20,8 @@ ul {
 
 li {
     margin: 10px;
+    text-decoration: none;
+    color: white;
 }
 
 

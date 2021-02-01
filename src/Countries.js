@@ -1,6 +1,6 @@
 import React from "react";
 import axios from 'axios';
-import './App.css';
+import './Country.css';
 
 function Country(props) {
     const country = props.country;

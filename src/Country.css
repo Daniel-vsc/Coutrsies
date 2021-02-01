@@ -1,0 +1,23 @@
+
+
+
+body {
+
+    background: white;
+}
+
+
+.Country {
+    display: flex;
+    justify-content: space-between;
+    margin: 50px;
+    font-size: 30px;
+    color: orange;
+}
+
+img {
+    width: 150px;
+    height: 80px;
+    margin: 0 50px;
+}
+

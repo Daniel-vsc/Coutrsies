@@ -1,6 +1,7 @@
 import React from 'react'
 import axios from 'axios';
 import {Country} from "./Countries";
+import "./Search.css"
  
 class Search extends React.Component {
         constructor(props) {
